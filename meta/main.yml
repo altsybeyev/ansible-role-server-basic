@@ -1,0 +1,9 @@
+galaxy_info:
+  author: altsybeyev
+  description: basic server installations
+  license: MIT
+  min_ansible_version: 2.9
+  platforms:
+    - name: Ubuntu
+
+dependencies: []
