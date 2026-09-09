@@ -34,6 +34,7 @@
       - dnsutils
       - traceroute
       - fail2ban
+      - crowdsec
     state: present
 
 - name: Настроить SSH безопасность - отключить парольную аутентификацию
